@@ -1,0 +1,14 @@
+programa {
+  funcao inicio() {
+    real a, b, c
+    real a2, b2, c2
+
+    b = 11.5
+    c = 6.3
+    b2 = b * b
+    c2 = c * c
+    a2 = b2 + c2 
+    
+    escreva(a2)
+  }
+}
